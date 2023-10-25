@@ -1,0 +1,28 @@
+body{
+background-image: url(https://thumbs.dreamstime.com/z/concept-thinking-background-brain-cpu-mind-series-technology-symbols-subject-computer-science-artificial-concept-117063020.jpg?w=992);
+background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+img{
+    color: black;
+}
+h1{
+    color: rgb(32, 32, 9);
+}
+p{
+    color:yellow;
+}
+ul{
+    color: orange;
+}
+h2{
+    color:red;
+}
+input{
+    color:yellow;
+}
+h1{
+    color: darkblue;
+}
